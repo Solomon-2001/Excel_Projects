@@ -15,13 +15,13 @@ Business Questions:
 - What are the peak sales days and times?
 - Which payment method is used most and generates the most revenue?
 
-Tools Used
+Tools Used:
 - Microsoft Excel – Used for data cleaning, transformation, PivotTables, and data visualisation
 - PivotTables & PivotCharts – Used to summarise revenue, customer behaviour, time trends, and branch performance
 - Conditional Formatting – Used to highlight errors and inconsistencies in date format
 - Chart Formatting & Axis formatting – Used to create clean, professional visualisations
 
-Key Insights
+Key Insights:
 - What are the total sales by product category? -
 Food and Beverages generated the highest revenue (MMK 53.47K), while Health and Beauty produced the lowest (MMK 46.85k). Other categories performed similarly, averaging around 
 MMK 51–52k.
